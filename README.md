@@ -86,7 +86,7 @@ min = 0;
  hr = 0;
  
  than i use 4 functions which is helping in starting , stop , retset our stopwatch
- first function i use start, which start from 0 . than it's increces ++ when our sec become == 60 than our min is start when our min is become 60 than our hr incresed with 1 and so on this way my function is working .
+ first function i use for  start, which start from 0 . than it's increces with 1 ++ when our sec become == 60 than our min is start when our min is become 60 than our hr incresed with 1 and so on this way my function is working .
 
 
 function start()
