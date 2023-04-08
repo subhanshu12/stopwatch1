@@ -2,6 +2,8 @@
 stopwatch project
 i start with html file 
 
+## HTML
+
 <body>
     <div class="box"> this line i use for box which is use in stopwatch
         <h2 class="heading"> Stopwatch</h2> this line i use for heading which is i use for mention a stopwatch
